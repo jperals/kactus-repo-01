@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2,
+  "do_objectID": "5172B68A-C207-4E84-A890-AB288758BDD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 151,
+    "width": 193,
+    "x": 477,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5C79E345-562E-4861-A9FB-56BDCC726133"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2D31EA5F-109D-4826-962C-9B0802C5EB65"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A58452C-428B-4911-ADF2-C23C6605D68A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "76ED1A55-168C-4BDB-8EEA-E55D7B091B08"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B387F3AF-C3A6-4C71-AB23-6E3CE6F6C9B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "850145ED-3704-47F1-8594-62CBEEAA0CDF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0ACDBAB0-3354-4CA5-BEBF-42FC4A8B4DCF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1142E5A0-31F3-4577-91C4-7AF7986CC76C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7C13C513-4C99-4868-A8A5-5F66BF44E3DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E904751A-257B-4782-AB8A-56BE280977DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "950852C0-B983-4D5B-B0BD-93F530D2C3E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D3ADC6E-877E-4D31-A936-90170B4FFF91"
+    }
+  ],
+  "name": "items/phone/content-green",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "250E8D0F-3532-4061-9070-F03C21FD884B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -33,20 +33,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "3E4A13E1-492F-4C9B-BE58-B209251CBE01"
+      "class": "artboard",
+      "id": "D6C58A3F-B16F-40F2-9F84-1A8F8023A557"
     },
     {
-      "class": "shapeGroup",
-      "id": "CE34990F-98F1-41B5-B1C0-B436F8DF4B31"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2DDF07EB-E517-4754-B287-AFD2B05202CF"
+      "class": "artboard",
+      "id": "F1EEA7EA-C9B7-40EF-AE99-4BCCF812610C"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Overview",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
